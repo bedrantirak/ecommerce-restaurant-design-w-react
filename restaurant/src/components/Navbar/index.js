@@ -11,6 +11,7 @@ const Navbar = ({ toggle }) => {
           <Bars />
         </NavIcon>
       </Nav>
+      
     </>
   );
 };
